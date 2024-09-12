@@ -60,7 +60,9 @@ REPO_NAME=your_repository_name
 pip install -r requirements.txt
 ```
 
-### Тест для saucedemo.com
+---
+
+## Тест для saucedemo.com
 
 #### Цель
 
@@ -89,7 +91,7 @@ pip install -r requirements.txt
 
 ---
 
-### Тест для GitHub API
+## Тест для GitHub API
 
 #### Цель
 
