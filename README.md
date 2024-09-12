@@ -29,7 +29,7 @@
 ### Клонируйте проект
 
 ```shell
-git clone
+git clone https://github.com/moduleb/saucedemo_selenium.git
 ```
 
 ### Перейдите в папку проекта
