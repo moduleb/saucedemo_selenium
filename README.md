@@ -87,6 +87,8 @@ pip install -r requirements.txt
   python run.py -s
   ```
 
+---
+
 ### Тест для GitHub API
 
 #### Цель
