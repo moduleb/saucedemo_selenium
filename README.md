@@ -53,6 +53,7 @@ GITHUB_USERNAME=your_github_username
 GITHUB_TOKEN=your_github_token
 REPO_NAME=your_repository_name
 ```
+> Создать токен можно здесь https://github.com/settings/tokens
 
 ### Установите зависимости
 ```bash
