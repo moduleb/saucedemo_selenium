@@ -71,12 +71,12 @@ def assert_purchase_success(driver: webdriver) -> bool:
 def test_purchase_at_saucedemo() -> None:
     site_login = 'standard_user'
     site_password = 'secret_sauce'
-    site_url: str = 'https://saucedemo.com'
-    product_name: str = 'Sauce Labs Backpack'
+    site_url = 'https://saucedemo.com'
+    product_name = 'Sauce Labs Backpack'
 
-    first_name: str = "John"
-    last_name: str = "Doe"
-    postal_code: str = "12345"
+    first_name = "John"
+    last_name = "Doe"
+    postal_code = "12345"
 
     with webdriver.Firefox() as driver:
         try:
